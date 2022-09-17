@@ -13,4 +13,5 @@ Anyway, feeling rather curious, I signed up to go learn more...
 - https://help.glitch.com  
 - https://help.glitch.com/home/  
 - https://glitch.com/~clear-beaded-lobe  
+- https://glitch.com/pricing  
 
