@@ -15,4 +15,4 @@ Anyway, feeling rather curious, I signed up to go learn more...
 - https://glitch.com/~clear-beaded-lobe  
 - https://glitch.com/pricing  
 - https://support.glitch.com/categories  
-
+- https://glitch.com/fastly/  
